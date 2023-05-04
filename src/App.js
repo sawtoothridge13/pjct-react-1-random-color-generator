@@ -3,12 +3,10 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <div>Random Color Generator</div>
-      </header>
-      <section>
+      <header>Random Color Generator</header>
+      <div>
         <input />
-      </section>
+      </div>
       <button>Generate</button>
     </div>
   );
