@@ -15,20 +15,20 @@ A react web application that will show a random color when a button is clicked.
 
   Figma design mockup: see `figma-design.png`
 
-- [] Create header that says `Random Color Generator`
+- [x] Create header that says `Random Color Generator`
 
-  - [] Black Text
-  - [] White Background
+  - [x] Black Text
+  - [x] White Background
 
-- [] Create button that says `Generate`
+- [x] Create button that says `Generate`
 
-- [] Create container where the hex code and button will appear
-  - [] Hex code and container color must both be the same when `Generate` button is pushed
+- [x] Create container where the hex code and button will appear
+  - [x] Hex code and container color must both be the same when `Generate` button is pushed
 
 Design and develop a random color generator web application using React. This application will show a random color when a button is clicked:
 
-- [ ] A button with the exact text `Generate` will cause a new color to be generated when it is clicked
-- [ ] Once a color is generated, update the background color of a div which contains the exact text `Generated Color: <background color hex code>` (the background color and the hex code must match)
+- [x] A button with the exact text `Generate` will cause a new color to be generated when it is clicked
+- [x] Once a color is generated, update the background color of a div which contains the exact text `Generated Color: <background color hex code>` (the background color and the hex code must match)
 
 Our suggestions for breaking down the task into TODOs:
 
