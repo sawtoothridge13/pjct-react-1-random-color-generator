@@ -14,7 +14,3 @@ export default function App() {
     </div>
   );
 }
-
-{
-  /* <span>Generated Color: {color}</span> */
-}
