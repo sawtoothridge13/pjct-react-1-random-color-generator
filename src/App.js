@@ -9,10 +9,12 @@ export default function App() {
   return (
     <div className="App">
       <header>Random Color Generator</header>
-      <div style={{ backgroundColor: color }}>
-        <span>Generated Color: {color}</span>
-      </div>
+      <div style={{ backgroundColor: color }}>Generated Color: {color}</div>
       <button onClick={() => setColor(randomColor)}>Generate</button>
     </div>
   );
+}
+
+{
+  /* <span>Generated Color: {color}</span> */
 }
