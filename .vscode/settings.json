@@ -1,4 +1,11 @@
 {
   "css.lint.unknownAtRules": "ignore",
-  "cSpell.words": ["noopener", "noreferrer", "pjct", "randomcolor", "stylelint"]
+  "cSpell.words": [
+    "noopener",
+    "noreferrer",
+    "pjct",
+    "randomcolor",
+    "stylelint",
+    "TSES"
+  ]
 }
